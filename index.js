@@ -8,7 +8,7 @@ import mongoose from "mongoose";
 
 import Enquiry from "./models/Enquiry.js";
 import { sendEmail } from "./utils/sendEmail.js";
-import { sendWhatsApp } from "./utils/sendWhatsapp.js";
+// import { sendWhatsApp } from "./utils/sendWhatsApp.js";
 
 
 const app = express();
